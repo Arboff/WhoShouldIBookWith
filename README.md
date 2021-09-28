@@ -2,7 +2,7 @@
 ## Because they will cancel on me either way.
 
 <p align="center">
-  <img width="920" height="600" src="https://i.ibb.co/kGqKVSn/spapshot2.png">
+  <img width="920" height="600" src="https://i.ibb.co/pQPcBnc/spapshot2.png">
 </p>
 
 
@@ -52,7 +52,7 @@ MAIN LINK: Coming soon.
  A: Not to die from starvation. <br />
 <br />
  Q: Ads? <br />
- A: We will see .<br />
+ A: We will see. <br />
 <br />
  Q: Which one of those brokers are your favorite ? <br />
  A: Would say TQL, Because they love to screw George. <br />
@@ -111,7 +111,7 @@ MAIN LINK: Coming soon.
 <br />
 ##More to come.
 
-#**CONTACTS:**<br />
+**CONTACTS:**<br />
 **INSTAGRAM:** https://instagram.com/arboff.1337 <br />
 **GITHUB:** https://github.com/arboff <br />
 **E-MAIL:** arboff@students.softuni.bg <br />
