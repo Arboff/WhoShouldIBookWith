@@ -27,27 +27,27 @@ The main idea is (If you've ever worked in the freight industry on the teritory 
 > document.getElementById('image_shower').src = `./images/${select_image}`
 >}
 
-## Will add more JS functionality, like animations and smoother workflow of website.
+ Will add more JS functionality, like animations and smoother workflow of website.
  Might re-write it in Flask, someday...
 
 
-
-# Q: Why ?
+# Q&A
+ Q: Why ?
  A: Why not ?
 
-# Q: How long did it take you to do ?
+ Q: How long did it take you to do ?
  A: Like 1 pack of cigarettes.
 
-# Q: Why do you make such a small project a big thing ?
+ Q: Why do you make such a small project a big thing ?
  A: Your GF is ugly as Sh*t but you still think She is the prettiest.
 
-# Q: Where did you learn ?
+ Q: Where did you learn ?
  A: Softuni Bulgaria.
 
-# Q: What is your goal ?
+ Q: What is your goal ?
  A: Not to die from starvation.
 
-# Q: Ads?
+ Q: Ads?
  A: We will see.
 
 # Q: Which one of those brokers are your favorite ?
@@ -107,11 +107,11 @@ The main idea is (If you've ever worked in the freight industry on the teritory 
 <br />
 ##More to come.
 
-#**CONTACTS:**
-**INSTAGRAM:** https://instagram.com/arboff.1337
-**GITHUB:** https://github.com/arboff
-**E-MAIL:** arboff@students.softuni.bg
-**BTC ADRESS:** 0xf6af5320d5f4f97c77b273be577dda3e33ff91d9
+#**CONTACTS:**<br />
+**INSTAGRAM:** https://instagram.com/arboff.1337 <br />
+**GITHUB:** https://github.com/arboff <br />
+**E-MAIL:** arboff@students.softuni.bg <br />
+**BTC ADRESS:** 0xf6af5320d5f4f97c77b273be577dda3e33ff91d9 <br />
 
 
 
