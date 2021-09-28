@@ -2,7 +2,7 @@
 ## Because they will cancel on me either way.
 
 <p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/T47HcHX/spapshot2.png">
+  <img width="920" height="600" src="https://i.ibb.co/kGqKVSn/spapshot2.png">
 </p>
 
 
@@ -10,7 +10,7 @@ This was a side project I decided to do so I can lay my foundations into **JavaS
 
 #  WHAT DOES IT DO ? 
 
-The main idea is (If you've ever worked in the freight industry on the teritory of the USA) that it takes a broker from the top 100 brokers for 2021 (List compiled by https://www.freightforwarderservices.com/) and suggests to you, which one should you use on your next truck.
+The main idea is (If you've ever worked in the freight industry on the teritory of the USA) that it takes a broker from the top 100 brokers for 2021 (List compiled by https://www.freightforwarderservices.com/) and suggests to you, which one should you use on your next truck. <br /> <br />
 *Don't do it, they will cancel you last minute eitherway.*
 
 # Main Concept
