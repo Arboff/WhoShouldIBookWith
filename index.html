@@ -1,8 +1,16 @@
 <html>
-<head>
-<title> Who Should I Book With ? </title>
-</head>
-<body bgcolor="#659dbd">
-<center> <img src="1.png", height=50%> </center>
-</body>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <title> Who Should I Book With ? </title>
+  </head>
+  <body onload="loadImage()">
+    <center>  <img src = "images/header3.png"  height:"35%"> </center>
+    <center> <img id ="image_shower" onload="get_random_image()"/> </center>
+    <button onclick="get_random_image"/>
+    <div class = footer>
+    <text size = "6"> <center> Best Regards to Paul & George. </CENTER> </TEXT>
+    <text size = "6"> <center> <a href = "https://github.com/arboff"> ARBOFF™️ 2021 . ALL RIGHTS RESERVED. </CENTER> </TEXT>
+    </div>
+    <script src="functions.js"></script>
+  </body>
 </html>
