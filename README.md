@@ -28,83 +28,83 @@ The main idea is (If you've ever worked in the freight industry on the teritory 
 >}
 
 ## Will add more JS functionality, like animations and smoother workflow of website.
-## Might re-write it in Flask, someday...
+ Might re-write it in Flask, someday...
 
 
 
 # Q: Why ?
-# A: Why not ?
+ A: Why not ?
 
 # Q: How long did it take you to do ?
-# A: Like 1 pack of cigarettes.
+ A: Like 1 pack of cigarettes.
 
 # Q: Why do you make such a small project a big thing ?
-# A: Your GF is ugly as Sh*t but you still think She is the prettiest.
+ A: Your GF is ugly as Sh*t but you still think She is the prettiest.
 
 # Q: Where did you learn ?
-# A: Softuni Bulgaria.
+ A: Softuni Bulgaria.
 
 # Q: What is your goal ?
-# A: Not to die from starvation.
+ A: Not to die from starvation.
 
 # Q: Ads?
-# A: We will see.
+ A: We will see.
 
 # Q: Which one of those brokers are your favorite ?
-# A: Would say TQL, Because they love to screw George.
+ A: Would say TQL, Because they love to screw George.
 
 # BROKERS CURRENTLY SUPPORTED:
-• D & L Transport
-• Diversified Operations
-• Eagle
-• Fitzmark
-• FLS Transport
-• GenPro
-• Geodis
-• GlobalTranz
-• HUB Group
-• Integrity Express Logistics
-• ISG Transportation
-• Kingsgate Logistics
-• Koch Logistics
-• Landstar
-• Legacy
-• Leonards's Express
-• Amino
-• ArcBest
-• Armstrong Transport Group
-• Advance Transportation Systems
-• Bay & Bay Logistics
-• Becker Logistics
-• C.H. Robinnson
-• Covenant Transport
-• Cowan Systems
-• Nolan Transportation Group
-• Load Delivered
-• M2 Logistics
-• Megalan Transport
-• Magnate Worldwide
-• Matson Logistics
-• MegaCorp
-• Mid America Logistics
-• Patterson Companies INC.
-• PLS Logistics
-• R2 Logistics
-• RLS Logistics
-• RMX Global
-• ROAR Logistics
-• SPI International
-• Sunset Transportation
-• Sunset Pacific
-• Total Quality Logistics
-• Trinity Logistics
-• Universal	
-• USAT Logistics
-• Vertiv
-• Visible
-• Warner
-• Worldwide Express
-
+• D & L Transport <br />
+• Diversified Operations <br />
+• Eagle <br />
+• Fitzmark <br />
+• FLS Transport <br />
+• GenPro <br />
+• Geodis <br />
+• GlobalTranz <br />
+• HUB Group <br />
+• Integrity Express Logistics <br />
+• ISG Transportation <br />
+• Kingsgate Logistics <br />
+• Koch Logistics <br />
+• Landstar <br />
+• Legacy <br />
+• Leonards's Express <br />
+• Amino <br />
+• ArcBest <br />
+• Armstrong Transport Group <br />
+• Advance Transportation Systems <br />
+• Bay & Bay Logistics <br />
+• Becker Logistics <br />
+• C.H. Robinnson <br />
+• Covenant Transport <br />
+• Cowan Systems <br />
+• Nolan Transportation Group <br />
+• Load Delivered <br />
+• M2 Logistics <br />
+• Megalan Transport <br />
+• Magnate Worldwide <br />
+• Matson Logistics <br />
+• MegaCorp <br />
+• Mid America Logistics <br />
+• Patterson Companies INC. <br />
+• PLS Logistics <br />
+• R2 Logistics <br />
+• RLS Logistics <br />
+• RMX Global <br />
+• ROAR Logistics <br />
+• SPI International <br />
+• Sunset Transportation <br />
+• Sunset Pacific <br />
+• Total Quality Logistics <br />
+• Trinity Logistics <br />
+• Universal	<br />
+• USAT Logistics <br />
+• Vertiv <br />
+• Visible <br />
+• Warner <br />
+• Worldwide Express <br />
+<br />
 ##More to come.
 
 #**CONTACTS:**
