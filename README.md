@@ -32,27 +32,27 @@ The main idea is (If you've ever worked in the freight industry on the teritory 
 
 
 # Q&A
- Q: Why ?
- A: Why not ?
-
- Q: How long did it take you to do ?
- A: Like 1 pack of cigarettes.
-
- Q: Why do you make such a small project a big thing ?
- A: Your GF is ugly as Sh*t but you still think She is the prettiest.
-
- Q: Where did you learn ?
- A: Softuni Bulgaria.
-
- Q: What is your goal ?
- A: Not to die from starvation.
-
- Q: Ads?
- A: We will see.
-
-# Q: Which one of those brokers are your favorite ?
- A: Would say TQL, Because they love to screw George.
-
+ Q: Why ? <br />
+ A: Why not ? <br />
+<br />
+ Q: How long did it take you to do ? <br />
+ A: Like 1 pack of cigarettes. <br />
+<br />
+ Q: Why do you make such a small project a big thing ? <br />
+ A: Your GF is ugly as Sh*t but you still think She is the prettiest. <br />
+<br />
+ Q: Where did you learn ? <br />
+ A: Softuni Bulgaria. <br />
+<br />
+ Q: What is your goal ? <br />
+ A: Not to die from starvation. <br />
+<br />
+ Q: Ads? <br />
+ A: We will see .<br />
+<br />
+ Q: Which one of those brokers are your favorite ? <br />
+ A: Would say TQL, Because they love to screw George. <br />
+<br />
 # BROKERS CURRENTLY SUPPORTED:
 • D & L Transport <br />
 • Diversified Operations <br />
