@@ -8,7 +8,7 @@
 
 This was a side project I decided to do so I can lay my foundations into **JavaScript** and polish a bit my **CSS** and **HTML**.
 
-# ** WHAT DOES IT DO ? **
+#  WHAT DOES IT DO ? 
 
 The main idea is (If you've ever worked in the freight industry on the teritory of the USA) that it takes a broker from the top 100 brokers for 2021 (List compiled by https://www.freightforwarderservices.com/) and suggests to you, which one should you use on your next truck.
 *Don't do it, they will cancel you last minute eitherway.*
