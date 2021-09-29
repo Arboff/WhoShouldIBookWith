@@ -1,4 +1,6 @@
-image_array = [images/'1.png',
+window.onload = choosePic;
+
+var myPix = new Array('images/1.png',
 images/'2.png',
 images/'3.png',
 images/'4.png',
@@ -49,15 +51,8 @@ images/'48.png',
 images/'49.png',
 images/'50.png',
 images/'51.png',
-images/'52.png']
+images/'52.png')
 
-function get_random_image(){
-  random_index = Math.floor(Math.random() * image_array.length);
-
-  select_image = image_array[random_index]
-
- document.getElementById('image_shower').src = `./images/${select_image}`
-
-
-
-}
+function choosePic() {
+     var randomNum = Math.floor(Math.random() * myPix.length);
+     document.getElementById("myPicture").src = myPix[randomNum];
