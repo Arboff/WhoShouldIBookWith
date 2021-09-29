@@ -5,11 +5,11 @@ background: linear-gradient(190deg, rgba(2,0,36,1) 0%, rgba(144,25,156,1) 0%, rg
 
 
 .fade-in-image {
-  animation: fadeIn 5s;
-  -webkit-animation: fadeIn 5s;
-  -moz-animation: fadeIn 5s;
-  -o-animation: fadeIn 5s;
-  -ms-animation: fadeIn 5s;
+  animation: fadeIn 3s;
+  -webkit-animation: fadeIn 3s;
+  -moz-animation: fadeIn 3s;
+  -o-animation: fadeIn 3s;
+  -ms-animation: fadeIn 3s;
 }
 @keyframes fadeIn {
   0% {opacity:0;}
@@ -39,16 +39,31 @@ background: linear-gradient(190deg, rgba(2,0,36,1) 0%, rgba(144,25,156,1) 0%, rg
 .header {
   position:relative;
   top: 0px;
-  max-width: 50%;
-  height: auto;
+  max-width: 100%;
+    min-width: 300px;
+    height: auto;
   transform: scale(0.5);
+  background-size: contain;
 }
 
 .footer {
-  position: fixed;
+  margin-top: 50px;
+  
   left: 0;
-  bottom: 0;
+  bottom: 500;
   width: 100%;
   color: grey;
   text-align: center;
+}
+
+.myButton{
+    background:url(./images/BUTTON1.png) no-repeat;
+    cursor:pointer;
+    border:none;
+    width:25%;
+    height:auto;
+}
+
+.myButton:active {
+     
 }

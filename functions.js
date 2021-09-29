@@ -63,6 +63,6 @@ function get_random_image(){
 }
 
 
-window.addEventListener("load", () => {
+window.addEventListener("load", () => { 
     get_random_image();
 });
